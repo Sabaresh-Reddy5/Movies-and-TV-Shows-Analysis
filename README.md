@@ -124,6 +124,48 @@ Shows clear % split:
 
 Timeline visual showing steep growth after 2000, especially post-2010.
 
+## 📊 Dashboard Features
+
+KPI cards for overview metrics
+
+Rating distribution bar chart
+
+Genre popularity chart
+
+Country-wise content map
+
+Donut chart for Movies vs TV Shows
+
+Release year trend line chart
+
+## 📝 Insights Summary
+
+Prime Video library is movie-dominant (82% movies).
+
+U.S. and India produce most content.
+
+Rapid content growth after 2010.
+
+Drama and Comedy are leading genres.
+
+TV-MA and TV-14 are the most frequent ratings.
+
+## 📌 Tools Used
+
+Power BI Desktop
+
+DAX
+
+Amazon Prime Titles dataset
+
+## 📥 How to Use
+
+Download the PBIX file from this repository.
+
+Open it in Power BI Desktop.
+
+Interact with slicers and visuals for deeper insights.
+
 ## 📌 Insights Summary (For GitHub)
 
 Amazon Prime has 9655 titles, dominated heavily by Movies (82%).
