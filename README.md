@@ -74,3 +74,92 @@ Total TV Shows = CALCULATE(COUNTROWS(amazon_prime_titles), amazon_prime_titles[t
 Movie % = DIVIDE([Total Movies], [Total Titles])
 
 TV Show % = DIVIDE([Total TV Shows], [Total Titles])
+
+
+---
+
+🖥 Dashboard Explanation
+1. KPI Cards
+
+Shows the total:
+
+Titles
+
+Ratings
+
+Genres
+
+Directors
+
+First & last release year
+
+These help understand dataset scale at a glance.
+
+2. Rating Distribution
+
+A horizontal bar chart showing how many titles fall into categories like:
+
+R
+
+PG
+
+TV-MA
+
+TV-14
+
+etc.
+This helps identify audience targeting.
+
+3. Genre Popularity
+
+Displays the top genres like:
+
+Drama
+
+Comedy
+
+Kids
+
+Documentary
+Shows content strength areas.
+
+4. Total Shows by Country
+
+The map visual highlights:
+
+United States
+
+India
+
+UK
+
+Canada
+as top contributors.
+
+5. Movies vs TV Shows (Donut Chart)
+
+Shows clear % split:
+
+~82% Movies
+
+~18% TV Shows
+
+6. Release Trend Over Time
+
+Timeline visual showing steep growth after 2000, especially post-2010.
+
+📌 Insights Summary (For GitHub)
+
+Amazon Prime has 9655 titles, dominated heavily by Movies (82%).
+
+The platform has 25 rating types, with TV-14 and TV-MA being the most common.
+
+Drama, Comedy, and Action are top genres.
+
+The US and India are the top content-producing countries.
+
+Massive increase in content addition from 2000 to 2021.
+
+Oldest title dates back to 1920, showing deep catalog history.
+
+Over 5771 directors, highlighting large creative diversity.
