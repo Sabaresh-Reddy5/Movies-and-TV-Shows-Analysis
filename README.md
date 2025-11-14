@@ -78,8 +78,8 @@ TV Show % = DIVIDE([Total TV Shows], [Total Titles])
 
 ---
 
-🖥 Dashboard Explanation
-1. KPI Cards
+## 🖥 Dashboard Explanation
+ - *1. KPI Cards*
 
 Shows the total:
 
@@ -95,7 +95,7 @@ First & last release year
 
 These help understand dataset scale at a glance.
 
-2. Rating Distribution
+ - *2. Rating Distribution*
 
 A horizontal bar chart showing how many titles fall into categories like:
 
@@ -110,7 +110,7 @@ TV-14
 etc.
 This helps identify audience targeting.
 
-3. Genre Popularity
+ - *3. Genre Popularity*
 
 Displays the top genres like:
 
@@ -123,7 +123,7 @@ Kids
 Documentary
 Shows content strength areas.
 
-4. Total Shows by Country
+ - *4. Total Shows by Country*
 
 The map visual highlights:
 
@@ -136,7 +136,7 @@ UK
 Canada
 as top contributors.
 
-5. Movies vs TV Shows (Donut Chart)
+- *5. Movies vs TV Shows (Donut Chart)*
 
 Shows clear % split:
 
@@ -144,11 +144,11 @@ Shows clear % split:
 
 ~18% TV Shows
 
-6. Release Trend Over Time
+ - *6. Release Trend Over Time*
 
 Timeline visual showing steep growth after 2000, especially post-2010.
 
-📌 Insights Summary (For GitHub)
+## 📌 Insights Summary (For GitHub)
 
 Amazon Prime has 9655 titles, dominated heavily by Movies (82%).
 
