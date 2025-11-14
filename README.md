@@ -49,7 +49,7 @@ Columns include show_id, type, title, director, cast, country, date_added, relea
 7. Who are the top directors?
 8. What is the oldest and newest release year?
 9. What percentage of the catalog belongs to movies or TV shows?
-
+10. Which rating categories dominate specific genres?
 ---
 
 ## 🔢 DAX Measures Used
