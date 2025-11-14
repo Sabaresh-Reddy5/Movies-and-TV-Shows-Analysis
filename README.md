@@ -75,7 +75,7 @@ Movie % = DIVIDE([Total Movies], [Total Titles])
 
 TV Show % = DIVIDE([Total TV Shows], [Total Titles])
 
-
+' ' '
 ---
 
 ## 🖥 Dashboard Explanation
